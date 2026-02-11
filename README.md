@@ -45,12 +45,12 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "swastikaaaaa😘"                    // Your Valentine's name
+pageTitle: "tussi mere valentine banoge🥺?" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
-    hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
+    hearts: ['❤️', '💋', '🤭', '🫶', '😍'],  // Heart emojis in background
     bears: ['🧸', '🐻']                       // Bear emojis in background
 }
 
@@ -99,7 +99,7 @@ colors: {
 
 // Animation Settings
 animations: {
-    floatDuration: "15s",           // How long hearts float (10-20s)
+    floatDuration: "10s",           // How long hearts float (10-20s)
     floatDistance: "50px",          // Sideways movement (30-70px)
     bounceSpeed: "0.5s",            // Bounce animation speed (0.3-0.7s)
     heartExplosionSize: 1.5         // Final heart explosion size (1.2-2.0)
