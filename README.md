@@ -57,35 +57,35 @@ floatingEmojis: {
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        text: "do you like me?",                   // First question
+        yesBtn: "yes",                             // Yes button text
+        noBtn: "pagl hain kya",                               // No button text
+        secretAnswer: "pagl toh hun aapke pyaar mein"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
+        text: "kinna pyaar krti merse?",          // Second question
+        startText: "itnaaaaaa",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        text: "will u be my valentine meri malai jalebi?",      // Final question
+        yesBtn: "YESSSSS",                            // Yes button text
+        noBtn: "no😰"                                // No button text
     }
 }
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "Ato bhalobasho amay????",  // Shows above 5000%
+    high: "kudiye dil hain tu mera",              // Shows above 1000%
+    normal: "aaja kissi deta💋"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    title: "tumi amar sathe thakle monay hoy ami pura prithibi jite niyechi.",     // Celebration title
+    message: "gift toh tera main hee hun but ye bhi lele",          // Celebration message
+    emojis: "💋💋💋💋💋💋💋"                        // Celebration emojis
 }
 
 // Website Colors
